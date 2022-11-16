@@ -20,7 +20,6 @@
   <summary>节点信息</summary>
 高速节点
 高速节点数量: `91`
-
 [节点链接](https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/update/2211/221116.txt)
 
 所有节点
