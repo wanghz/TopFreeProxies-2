@@ -25,9 +25,12 @@
   [节点链接](https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/update/2211/221116.txt)
 </details>
 
-  ### 所有节点
+<details>
+  <summary>所有节点</summary>
 合并节点总数: `2433`
 [节点链接](https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt)
+</details>
+</details>
 
 ### 节点来源
 - [alanbobs999/TopFreeProxies](https://github.com/alanbobs999/TopFreeProxies), 节点收集合并
