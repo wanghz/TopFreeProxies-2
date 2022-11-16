@@ -16,6 +16,8 @@
 >自用在线订阅转换网址：[sub-web-modify](https://sub.v1.mk/)
 </details>
 
+<details>
+  <summary>节点信息</summary>
 ## 节点信息
 ### 高速节点
 高速节点数量: `91`
