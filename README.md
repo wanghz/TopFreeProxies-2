@@ -28,6 +28,8 @@
 [节点链接](https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
+https://github.com/
+- [alanbobs999/TopFreeProxies](https://github.com/alanbobs999/TopFreeProxies), 节点收集合并
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `142`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), 节点数量: `135`
 - [freefq/free](https://github.com/freefq/free), 节点数量: `18`
