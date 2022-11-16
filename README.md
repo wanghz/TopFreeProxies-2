@@ -1,3 +1,10 @@
+## 节点信息
+### 高速节点
+高速节点数量: `91`
+<details>
+  <summary>展开复制节点</summary>
+https://github.com/alanbobs999/TopFreeProxies/tree/master/update
+
 ### 节点来源
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `142`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), 节点数量: `135`
