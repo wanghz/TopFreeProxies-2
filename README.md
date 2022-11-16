@@ -1,3 +1,19 @@
+## 使用方法
+将以下订阅链接导入相应客户端即可。链接中大部分为 SS 协议节点，少量 Vmess, Trojan ,SSR 协议节点，建议选择协议支持完整的客户端。
+
+- [多协议Base64编码](https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity)
+- [Clash](https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity.yaml)
+
+另有国内加速链接：
+
+- [多协议Base64编码](https://fastly.jsdelivr.net/gh/alanbobs999/TopFreeProxies@master/Eternity)
+- [Clash](https://fastly.jsdelivr.net/gh/alanbobs999/TopFreeProxies@master/Eternity.yaml)
+
+>`Clash`链接所使用的配置在仓库`./update/provider/`中，有相应配置文件和以国家分类的`proxy-provider`。
+>
+>需要其它配置可使用订阅转换工具自行转换。
+>自用在线订阅转换网址：[sub-web-modify](https://sub.v1.mk/)
+
 ## 节点信息
 ### 高速节点
 高速节点数量: `91`
